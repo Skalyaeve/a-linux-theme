@@ -8,3 +8,4 @@ name=a-linux-theme
 git cone https://github.com/Skalyaeve/$name
 cd $name && unzip theme.zip
 ```
+
